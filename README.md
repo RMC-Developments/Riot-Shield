@@ -1,4 +1,6 @@
 **Shield Script for FiveM (by RMC Developments)**
+Discord: https://discord.gg/Fz2U7CXRb2
+
 Overview
 This script allows players to equip and use a shield in your FiveM server. When the shield is activated, the player will hold a prop in their left hand and be protected from damage based on the configured settings. The shield can be toggled on and off by using an item (e.g., shield).
 
