@@ -34,8 +34,10 @@ Shield model: The prop used for the shield.
 Shield duration: The duration for which the shield remains active.
 Damage reduction: How much damage is reduced while the shield is active.
 Notifications: Customize the notifications shown when the shield is activated or deactivated.
+
 **4. Ensure Dependencies Are Installed**
 Make sure you have the QBCore framework installed and running on your server. This script uses the QBCore notification system and other basic functions.
+
 **5. Set up Item Usage (Optional)**
 Make sure you have an item in your inventory system (such as a shield) that players can use to activate and deactivate the shield. This item should trigger the rmc_shield:activate event.
 
